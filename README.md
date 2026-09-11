@@ -1,4 +1,6 @@
 # assignent1
+## Link to README.md on github below.
+https://github.com/juanrsanchez2/assignent1/blob/2f283c13207949b0b8a62e2c1ec357e1112c5740/README.md
 ## Synthetic Process Workload Generation and Simulation
 The purpose of this program is to implement a discrete workload generator that synthesizes the execution of <ins>**_1000 distinct processes_**</ins>. 
 ### Process Generation
